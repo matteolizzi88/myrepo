@@ -2,3 +2,5 @@
 Repository for testing my Git/GitHub setup
 this is a line from RStudio
 test fromn github
+test from rstudio part 2
+test for amend
